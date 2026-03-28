@@ -1,0 +1,5 @@
+[wokwi]
+version=1
+firmware='.pio/build/genericSTM32F103C8/firmware.hex'
+elf='.pio/build/genericSTM32F103C8/firmware.elf'
+rfc2217ServerPort = 4000
